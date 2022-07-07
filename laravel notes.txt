@@ -1,0 +1,12 @@
+If jetstream and livewire login register UI is not working, 
+
+- <!-- Styles -->
+        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+        @livewireStyles
+
+<script src="{{ asset('js/app.js') }}" defer></script>
+
+----------------------------------------------------------------------------------
+
+
+
