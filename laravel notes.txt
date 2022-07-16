@@ -46,3 +46,7 @@ Route::group(['prefix'=>'user'],function(){
 });
 
 -----------------------------------------------------------------------------------
+
+3.Laravel : Syntax error or access violation: 1055 Error
+
+Answer image :      IMG1Laravel  Syntax_error_or_access_violation_1055 Error
